@@ -80,6 +80,7 @@
 .btn-primary:hover {
   background-color: var(--primary-color-hover);
   scale: 1.05;
+  box-shadow: 1px 5px 20px rgba(19, 113, 254, 0.486);
 }
 
 .btn-secondary:hover {

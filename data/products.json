@@ -1,0 +1,198 @@
+[
+  {
+    "id": 1,
+    "categoria": "Procesador",
+    "nombre": "Procesador Intel Core i7-14700KF 3.4/5.6GHz Box",
+    "precio": 340.9,
+    "image": "../img/intel-core-i7-14700kf-56ghz-box.webp"
+  },
+  {
+    "id": 2,
+    "categoria": "Procesador",
+    "nombre": "Procesador AMD Ryzen 7 5700X 3.4GHz Box",
+    "precio": 149.9,
+    "image": "../img/amd-ryzen-7-5700x-34ghz-box.webp"
+  },
+  {
+    "id": 3,
+    "categoria": "Procesador",
+    "nombre": "Procesador Intel Core i3-14100F 3.5/4.7GHz Box",
+    "precio": 103.48,
+    "image": "../img/intel-core-i3-14100f-35-47ghz-box.webp"
+  },
+  {
+    "id": 4,
+    "categoria": "Procesadores",
+    "nombre": "Procesador AMD Ryzen 5 5600XT 3.7/4.7GHz",
+    "precio": 149.9,
+    "image": "../img/amd-ryzen-5-5600xt-37ghz.webp"
+  },
+  {
+    "id": 5,
+    "categoria": "Tarjetas Graficas",
+    "nombre": "Tarjeta Gráfica Gigabyte GeForce RTX 5070 GAMING OC 12GB GDDR7 Reflex 2",
+    "precio": 609.9,
+    "image": ""
+  },
+  {
+    "id": 6,
+    "categoria": "Tarjetas Graficas",
+    "nombre": "Tarjeta Gráfica Sapphire PULSE AMD Radeon RX 9060 XT 16GB GDDR6",
+    "precio": 459.9,
+    "image": ""
+  },
+  {
+    "id": 7,
+    "categoria": "Tarjetas Graficas",
+    "nombre": "Tarjeta Gráfica Asus GeForce RTX 5080 OC 16GB GDDR7 Reflex 2",
+    "precio": 1499,
+    "image": ""
+  },
+  {
+    "id": 8,
+    "categoria": "Tarjetas Graficas",
+    "nombre": "Tarjeta Gráfica MSI GeForce RTX 3050 LP E 6G OC 6GB GDDR6",
+    "precio": 234.9,
+    "image": ""
+  },
+  {
+    "id": 9,
+    "categoria": "Memorias Ram",
+    "nombre": "Forgeon Cyclone PLUS V2 DDR4 3200 MHz 16GB 2x8GB CL16 Negra",
+    "precio": 139.95,
+    "image": ""
+  },
+  {
+    "id": 10,
+    "categoria": "Memorias Ram",
+    "nombre": "Team Group T-Force Delta RGB DDR5 6000MHz 32GB 2x16GB CL30 Dual AMD EXPO e Intel XMP Negro",
+    "precio": 459.95,
+    "image": ""
+  },
+  {
+    "id": 11,
+    "categoria": "Memorias Ram",
+    "nombre": "Kingston FURY Beast DDR5 5200MHz 16GB CL40",
+    "precio": 209.95,
+    "image": ""
+  },
+  {
+    "id": 12,
+    "categoria": "Memorias Ram",
+    "nombre": "Corsair Vengeance LPX DDR4 2400 PC4-19200 16GB CL14",
+    "precio": 139.95,
+    "image": ""
+  },
+  {
+    "id": 13,
+    "categoria": "Discos Duros",
+    "nombre": "Disco Duro Samsung 990 Pro 1TB Disco SSD 7450MB/S NVMe PCIe 4.0 M.2 Gen4",
+    "precio": 192.99,
+    "image": ""
+  },
+  {
+    "id": 14,
+    "categoria": "Discos Duros",
+    "nombre": "Disco Duro Kingston NV3 500GB SSD M.2 NVMe 2280 PCIe 4.0",
+    "precio": 109.99,
+    "image": ""
+  },
+  {
+    "id": 15,
+    "categoria": "Discors Duros",
+    "nombre": "Disco Duro Seagate BarraCuda 3.5 2TB SATA 3",
+    "precio": 116.99,
+    "image": ""
+  },
+  {
+    "id": 16,
+    "categoria": "Discors Duros",
+    "nombre": "Disco Duro Western Digital WD Blue SN5100 1TB M.2 NVMe 7100MB/s Encriptación HW",
+    "precio": 116.99,
+    "image": ""
+  },
+  {
+    "id": 17,
+    "categoria": "Fuente de alimentación",
+    "nombre": "Corsair RMe Series RM750e ATX 3.1 PCIe 5.1 750W Cybenetics 80 Plus Gold Modular Blanca",
+    "precio": 120.99,
+    "image": ""
+  },
+  {
+    "id": 18,
+    "categoria": "Fuente de alimentación",
+    "nombre": "MSI 1000W 80 Plus Gold MAG A1000GL Modular ATX 3.1 PCIe 5.1",
+    "precio": 150.99,
+    "image": ""
+  },
+  {
+    "id": 19,
+    "categoria": "Fuente de alimentación",
+    "nombre": "Corsair HXi Series HX1500i ATX 3.1 PCIe 5.1 1500W 80 Plus Platinum Modular",
+    "precio": 300,
+    "image": ""
+  },
+  {
+    "id": 20,
+    "categoria": "Fuente de alimentación",
+    "nombre": "Corsair RM750x Shift 750W Gold modular Fan 140mm ATX 3.1",
+    "precio": 145,
+    "image": ""
+  },
+  {
+    "id": 25,
+    "categoria": "Placas base",
+    "nombre": "MSI B850 GAMING PLUS WIFI",
+    "precio": 203.99,
+    "image": ""
+  },
+  {
+    "id": 26,
+    "categoria": "Placas base",
+    "nombre": "ASUS TUF GAMING B850-PLUS WIFI",
+    "precio": 220,
+    "image": ""
+  },
+  {
+    "id": 27,
+    "categoria": "Placas base",
+    "nombre": "ASUS PRIME B850M-A WIFI AM5 Micro ATX DDR5 Wi-Fi 6E 2.5GbE LAN",
+    "precio": 175.99,
+    "image": ""
+  },
+  {
+    "id": 28,
+    "categoria": "Placas base",
+    "nombre": "Gigabyte A520M K",
+    "precio": 48.9,
+    "image": ""
+  },
+  {
+    "id": 29,
+    "categoria": "Cajas",
+    "nombre": "Nox Hummer Astra ARGB Cristal Templado USB 3.0 Blanca",
+    "precio": 124.99,
+    "image": ""
+  },
+  {
+    "id": 30,
+    "categoria": "Cajas",
+    "nombre": "Nfortec Pulsar ARGB Semi Torre ATX con Doble Cristal Templado 4 Ventiladores Backrouting Negra",
+    "precio": 169,
+    "image": ""
+  },
+  {
+    "id": 31,
+    "categoria": "Cajas",
+    "nombre": "Forgeon Arcanite ARGB Mesh Torre ATX Blanca",
+    "precio": 124.99,
+    "image": ""
+  },
+  {
+    "id": 32,
+    "categoria": "Cajas",
+    "nombre": "Forgeon Mithril ARGB Mesh Torre ATX Cristal Templado Blanca",
+    "precio": 124.99,
+    "image": ""
+  }
+]
