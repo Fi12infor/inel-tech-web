@@ -17,7 +17,7 @@ async function renderProducts() {
             <span class="product-categoria">${product.categoria}</span>
             <h3 class="product-title">${product.nombre}</h3>
             <p class="product-precio">${product.precio}€</p>
-            <button class="product-buy btn">
+            <button class="product-buy btn" data-id="${product.id}">
                 Añadir al carrito
                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor"
                     stroke-linecap="round" stroke-linejoin="round" stroke-width="2"

@@ -15,6 +15,7 @@
   gap: 1rem;
   width: 20rem;
   height: 32rem;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.178);
 }
 
 .card img {
@@ -46,13 +47,14 @@
   gap: 0.6rem;
   cursor: pointer;
   text-decoration: none;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  box-shadow: 1px 5px 20px rgba(19, 113, 254, 0.486);
 }
 
 .card .btn:hover {
   background-color: var(--primary-color-hover);
   scale: 1.05;
-  box-shadow: 1px 5px 20px rgba(19, 113, 254, 0.486);
+  box-shadow: 1px 5px 20px rgba(15, 93, 211, 0.637);
 }
 
 .card span {
