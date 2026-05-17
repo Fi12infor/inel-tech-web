@@ -1,0 +1,52 @@
+@import "./colors.css";
+
+.services {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 6rem;
+}
+
+.service-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin-top: 4rem;
+}
+
+.service-cards .card {
+  background-color: var(--background-header);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 30rem;
+  height: 17rem;
+}
+
+.service-cards .card h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.service-cards .card p {
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+.service-cards .card .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--primary-color);
+  background-color: rgb(var(--primary-color-rgb), 0.1);
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 30%;
+}
+
+.service-cards .card .icon svg {
+  width: 2.5rem;
+  height: 2.5rem;
+}

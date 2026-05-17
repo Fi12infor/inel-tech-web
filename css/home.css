@@ -1,3 +1,4 @@
+@import "./colors.css";
 .hero {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -12,7 +13,7 @@
 }
 
 .badge {
-  background-color: #7c88ee;
+  background-color: #1371fe6c;
   color: var(--text-dark);
   padding: 0.2rem 2rem;
   border-radius: 0.8rem;

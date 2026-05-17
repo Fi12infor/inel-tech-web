@@ -1,0 +1,77 @@
+@import "./colors.css";
+
+.focus-section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 6rem;
+  gap: 2rem;
+}
+
+.focus-section-description {
+  width: 50rem;
+  font-size: 1.2rem;
+}
+
+.focus-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 4rem;
+}
+
+.focus-cards .card {
+  padding: 2rem;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  width: 40rem;
+  height: 4rem;
+}
+
+.focus-cards .card .number {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50px;
+  background-color: rgb(var(--primary-color-rgb), 0.2);
+}
+
+.focus-cards .card .card-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  width: 30rem;
+}
+
+.focus-cards .card h3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.focus-cards .card p {
+  font-size: 1rem;
+  color: var(--text-color);
+}
+
+.focus-cards .card .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--primary-color);
+  background-color: rgb(var(--primary-color-rgb), 0.1);
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 30%;
+}
+
+.focus-cards .card .icon svg {
+  width: 2.5rem;
+  height: 2.5rem;
+}
