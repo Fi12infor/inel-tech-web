@@ -65,7 +65,7 @@
   {
     "id": 10,
     "categoria": "Memorias Ram",
-    "nombre": "Team Group T-Force Delta RGB DDR5 6000MHz 32GB 2x16GB CL30 Dual AMD EXPO e Intel XMP Negro",
+    "nombre": "Team Group T-Force Delta DDR5 6000MHz 2x16GB CL30 AMD EXPO e Intel XMP ",
     "precio": 459.95,
     "image": "./img/team-group-t-force-delta-rgb-ddr5-6000mhz-32gb-2x16gb-cl30.webp"
   },
@@ -114,7 +114,7 @@
   {
     "id": 17,
     "categoria": "Fuente de alimentación",
-    "nombre": "Corsair RMe Series RM750e ATX 3.1 PCIe 5.1 750W Cybenetics 80 Plus Gold Modular Blanca",
+    "nombre": "Corsair RMe Series RM750e ATX 3.1 PCIe 5.1 750W Cybenetics 80 Plus Gold Modular",
     "precio": 120.99,
     "image": "./img/"
   },
@@ -177,7 +177,7 @@
   {
     "id": 30,
     "categoria": "Cajas",
-    "nombre": "Nfortec Pulsar ARGB Semi Torre ATX con Doble Cristal Templado 4 Ventiladores Backrouting Negra",
+    "nombre": "Nfortec Pulsar ARGB Semi Torre ATX con Doble Cristal Templado 4 Ventiladores",
     "precio": 169,
     "image": "./img/"
   },

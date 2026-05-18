@@ -2,7 +2,7 @@
 header {
   position: fixed;
   top: 0;
-  left: 12%;
+  left: 5.3%;
   justify-content: space-between;
   align-items: center;
   padding: 20px;
@@ -14,7 +14,7 @@ header nav {
   justify-items: center;
   align-items: center;
   background-color: var(--background-header);
-  width: 100rem;
+  width: 121rem;
   gap: 2rem;
   padding: 1rem 4rem;
   border-radius: 0.5rem;
