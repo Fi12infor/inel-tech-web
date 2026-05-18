@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/colors.css">
     <link rel="stylesheet" href="./css/footer.css">
+    <link rel="stylesheet" href="./css/contact.css">
     <link rel="shortcut icon" href="./img/favi.png" type="image/x-icon">
 </head>
 
@@ -17,12 +18,12 @@
         <nav>
             <img src="./img/logo.png" alt="Inel Tech Logo" class="nav-logo">
             <ul>
-                <li><a href="index.html">Inicio</a></li>
-                <li><a href="products.html">Productos</a></li>
+                <li><a href="./index.html">Inicio</a></li>
+                <li><a href="./products.html">Productos</a></li>
                 <li><a href="./index.html#services">Servicios</a></li>
             </ul>
             <div class="header-ctas">
-                <button class="carrito btn-carrito">
+                <div class="carrito btn-carrito">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor"
                         stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                         class="lucide lucide-shopping-cart-icon lucide-shopping-cart" viewBox="0 0 24 24">
@@ -30,7 +31,8 @@
                         <circle cx="19" cy="21" r="1" />
                         <path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12" />
                     </svg>
-                </button>
+                    <span class="cart-badge">2</span>
+                </div>
                 <a class="contact-btn" href="contact.html">Contactanos</a>
             </div>
         </nav>
@@ -38,14 +40,19 @@
     <main>
         <div class="contact-section">
             <div class="intro">
-                <h3>Contactanos</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam sapiente perspiciatis mollitia,
-                    magni praesentium autem perferendis inventore sed minus consequatur animi quis commodi, molestias
-                    voluptatibus repellat ipsam enim repellendus rem!</p>
+                <h1>Contactanos</h1>
+                <p>
+                    Estamos disponibles para ayudarte con cualquier consulta relacionada con nuestros productos,
+                    servicios técnicos o
+                    presupuestos personalizados. Nuestro objetivo es ofrecer soluciones tecnológicas fiables, rápidas y
+                    adaptadas a cada
+                    necesidad.
+                </p>
             </div>
             <div class="contact">
                 <div class="contact-form">
                     <form action="">
+                        <h3>Formulario de Contacto</h3>
                         <div class="information">
                             <div class="name">
                                 <label for="">Nombre</label>
@@ -64,12 +71,25 @@
                             <label for="">Mensaje:</label>
                             <textarea name="" id=""></textarea>
                         </div>
+                        <input type="submit" value="Enviar" class="submit-btn">
                     </form>
                 </div>
                 <div class="more-info">
                     <h3>Información de contacto</h3>
-                    <div class="contact-information"></div>
-                    <div class="open-hour"></div>
+                    <div class="contact-information contact-card">
+                        <h2>Metodos de contacto</h2>
+                        <p><span>Telefono:</span> <br> 928 090 099</p>
+                        <p><span>Correo:</span> <br> info@ineltech.com</p>
+                    </div>
+                    <div class="open-hour contact-card">
+                        <h2>Horario</h2>
+                        <p><span>Lunes a Viernes:</span> <br> 9:00 AM - 14:00 PM y 16:00 PM - 20:00 PM</p>
+                        <p><span>Sábado:</span> <br> 10:00 AM - 4:00 PM</p>
+                    </div>
+                    <div class="lcoation contact-card">
+                        <h2>Ubicación</h2>
+                        <p><span>Dirección:</span> <br> Calle Principal 123, Ciudad</p>
+                    </div>
                 </div>
             </div>
             <div class="map">
