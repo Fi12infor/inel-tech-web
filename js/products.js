@@ -1,13 +1,12 @@
 async function fetchProducts() {
-  const res = await fetch("./data/products.json");
-  const data = await res.json();
+  const response = await fetch("./data/products.json");
+  const data = await response.json();
   return data;
 }
 
 // Constantes de elementos del DOM
 async function renderProducts() {
   const products = await fetchProducts();
-
   const container = document.querySelector(".products-container");
 
   products.forEach((product) => {

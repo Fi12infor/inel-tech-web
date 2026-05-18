@@ -87,6 +87,7 @@
   background-color: var(--secondary-color-hover);
   color: var(--text-dark);
   scale: 1.05;
+  box-shadow: 1px 5px 20px rgba(13, 88, 201, 0.486);
 }
 
 .stats {

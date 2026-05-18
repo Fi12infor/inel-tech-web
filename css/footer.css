@@ -51,12 +51,58 @@ footer .social-links .social-link {
   transition: all 0.5s ease-in-out;
 }
 
+footer .social-links .instagram svg {
+  width: 1.6rem;
+  height: 1.6rem;
+}
+
+footer .social-links .twitter svg {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+footer .social-links .linkedin svg {
+  width: 1.4rem;
+  height: 1.4rem;
+}
+
 footer .social-links .social-link:hover {
   background-color: var(--primary-color);
   scale: 1.1;
 }
 
-footer .social-links .social-link svg {
-  width: 1.2rem;
-  height: 1.2rem;
+
+footer .fast-links {
+  display: flex;
+  flex-direction: column;
+}
+
+footer .fast-links ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: .6rem;
+  margin-top: .6rem;
+}
+
+footer .fast-links ul a {
+  text-decoration: none;
+  color: var(--text-color);
+  font-size: 1.1rem;
+  transition: all 0.5s ease-in-out;
+}
+
+footer .fast-links ul a:hover {
+  color: var(--primary-color);
+  scale: 1.06;
+  font-weight: 700;
+}
+
+footer .contact {
+  display: flex;
+  flex-direction: column;
+  gap: .6rem;
+  margin-top: .6rem;
 }
