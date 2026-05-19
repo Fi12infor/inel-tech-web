@@ -4,28 +4,28 @@
     "categoria": "Procesador",
     "nombre": "Procesador Intel Core i7-14700KF 3.4/5.6GHz Box",
     "precio": 340.9,
-    "image": "../img/intel-core-i7-14700kf-56ghz-box.webp"
+    "image": "./img/intel-core-i7-14700kf-56ghz-box.webp"
   },
   {
     "id": 2,
     "categoria": "Procesador",
     "nombre": "Procesador AMD Ryzen 7 5700X 3.4GHz Box",
     "precio": 149.9,
-    "image": "../img/amd-ryzen-7-5700x-34ghz-box.webp"
+    "image": "./img/amd-ryzen-7-5700x-34ghz-box.webp"
   },
   {
     "id": 3,
     "categoria": "Procesador",
     "nombre": "Procesador Intel Core i3-14100F 3.5/4.7GHz Box",
     "precio": 103.48,
-    "image": "../img/intel-core-i3-14100f-35-47ghz-box.webp"
+    "image": "./img/intel-core-i3-14100f-35-47ghz-box.webp"
   },
   {
     "id": 4,
     "categoria": "Procesadores",
     "nombre": "Procesador AMD Ryzen 5 5600XT 3.7/4.7GHz",
     "precio": 149.9,
-    "image": "../img/amd-ryzen-5-5600xt-37-47ghz.webp"
+    "image": "./img/amd-ryzen-5-5600xt-37-47ghz.webp"
   },
   {
     "id": 5,

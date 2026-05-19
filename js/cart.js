@@ -12,4 +12,10 @@ cartBtn.addEventListener("click", () => {
 })
 
 // Funcion para añadir productos al carrito
-
+console.log(buyBtn)
+buyBtn.forEach(boton => {
+    console.log(boton)
+    boton.addEventListener("click", () => {
+        console.log(boton.dataset.id)
+    })
+})
