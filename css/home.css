@@ -1,13 +1,13 @@
 @import "./colors.css";
 .hero {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
+  grid-template-columns: 0.6fr 0.6fr;
+  gap: 1rem;
   align-items: center;
 }
 
 .hero .service-img {
-  width: 80%;
+  width: 38rem;
   border-radius: 0.5rem;
   margin: 0 auto;
 }
@@ -21,8 +21,8 @@
 }
 
 .title {
-  font-size: 4rem;
-  width: 60rem;
+  font-size: 3.5rem;
+  width: 50rem;
   font-weight: 500;
   margin-bottom: 1rem;
 }
@@ -40,7 +40,7 @@
 
 .description {
   font-size: 1.2rem;
-  width: 50rem;
+  width: 40rem;
   margin-bottom: 2rem;
 }
 
@@ -105,4 +105,20 @@
 .stat .stat-title {
   font-size: 1.2rem;
   color: var(--text-color);
+}
+
+
+@media (max-width: 1200px) {
+  .hero {
+  display: grid;
+  grid-template-columns: 0.4fr 0.4fr;
+  gap: .4rem;
+  align-items: center;
+}
+
+.hero .service-img {
+  width: 30rem;
+  border-radius: 0.5rem;
+  margin: 0 auto;
+}
 }

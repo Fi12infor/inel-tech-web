@@ -116,83 +116,139 @@
     "categoria": "Fuente de alimentación",
     "nombre": "Corsair RMe Series RM750e ATX 3.1 PCIe 5.1 750W Cybenetics 80 Plus Gold Modular",
     "precio": 120.99,
-    "image": "./img/"
+    "image": "./img/corsair-rme-series-rm750e-750w-80-plus-gold-modular.webp"
   },
   {
     "id": 18,
     "categoria": "Fuente de alimentación",
     "nombre": "MSI 1000W 80 Plus Gold MAG A1000GL Modular ATX 3.1 PCIe 5.1",
     "precio": 150.99,
-    "image": "./img/"
+    "image": "./img/msi-mag-a1000gl-pcie5-atx-31-1000w-80-plus-gold-modular.webp"
   },
   {
     "id": 19,
     "categoria": "Fuente de alimentación",
     "nombre": "Corsair HXi Series HX1500i ATX 3.1 PCIe 5.1 1500W 80 Plus Platinum Modular",
     "precio": 300,
-    "image": "./img/"
+    "image": "./img/corsair-hxi-series-hx1500i-atx-31-pcie-51-1500w-80-plus-platinum-modular.webp"
   },
   {
     "id": 20,
     "categoria": "Fuente de alimentación",
     "nombre": "Corsair RM750x Shift 750W Gold modular Fan 140mm ATX 3.1",
     "precio": 145,
-    "image": "./img/"
+    "image": "./img/fuente-de-alimentacion-corsair-rm750x-shift-750w-gold-modular-fan-140mm-atx-31.jpg"
   },
   {
     "id": 25,
     "categoria": "Placas base",
     "nombre": "MSI B850 GAMING PLUS WIFI",
     "precio": 203.99,
-    "image": "./img/"
+    "image": "./img/msi-b850-gaming-plus-wifi.webp"
   },
   {
     "id": 26,
     "categoria": "Placas base",
     "nombre": "ASUS TUF GAMING B850-PLUS WIFI",
     "precio": 220,
-    "image": "./img/"
+    "image": "./img/asus-tuf-gaming-b850-plus-wifi.webp"
   },
   {
     "id": 27,
     "categoria": "Placas base",
     "nombre": "ASUS PRIME B850M-A WIFI AM5 Micro ATX DDR5 Wi-Fi 6E 2.5GbE LAN",
     "precio": 175.99,
-    "image": "./img/"
+    "image": "./img/placa-base-asus-b850m-am5-micro-atx-prime-b850m-a-wifi-ddr5-wi-fi-6e-25gbe-lan.webp"
   },
   {
     "id": 28,
     "categoria": "Placas base",
     "nombre": "Gigabyte A520M K",
     "precio": 48.9,
-    "image": "./img/"
+    "image": "./img/gigabyte-a520m-k-v2.webp"
   },
   {
     "id": 29,
     "categoria": "Cajas",
     "nombre": "Nox Hummer Astra ARGB Cristal Templado USB 3.0 Blanca",
     "precio": 124.99,
-    "image": "./img/"
+    "image": "./img/nox-hummer-astra-argb-cristal-templado-usb-30-blanca.webp"
   },
   {
     "id": 30,
     "categoria": "Cajas",
     "nombre": "Nfortec Pulsar ARGB Semi Torre ATX con Doble Cristal Templado 4 Ventiladores",
     "precio": 169,
-    "image": "./img/"
+    "image": "./img/nfortec-pulsar-argb-mid-tower-atx-cristal-templado-usb-c-negra-caracteristicas.webp"
   },
   {
     "id": 31,
     "categoria": "Cajas",
-    "nombre": "Forgeon Arcanite ARGB Mesh Torre ATX Blanca",
-    "precio": 124.99,
-    "image": "./img/"
+    "nombre": "Torre PC Fractal Design North TG ATX Mid Tower Cristal Templado USB 3.2 Charcoal Black",
+    "precio": 138.99,
+    "image": "./img/fractal-north-tg-atx-mid-tower-cristal-templado-usb-32-charcoal-black.webp"
   },
   {
     "id": 32,
     "categoria": "Cajas",
-    "nombre": "Forgeon Mithril ARGB Mesh Torre ATX Cristal Templado Blanca",
-    "precio": 124.99,
+    "nombre": "Torre PC Tempest Garrison ARGB ATX Cristal Templado USB 3.0 Blanca",
+    "precio": 50.99,
+    "image": "./img/tempest-garrison-argb-atx-cristal-templado-usb-30-blanca.webp"
+  },
+  {
+    "id": 33,
+    "categoria": "Ratones",
+    "nombre": "MX Anywhere 3S",
+    "precio": 105,
+    "image": "./img/logitech-mx-anywhere-3s-raton-inalambrico-compacto-8000-dpi-grafito.jpg"
+  },
+  {
+    "id": 34,
+    "categoria": "Ratones",
+    "nombre": "Ratón Logitech MX Master 3S Inalámbrico Bluetooth 8000 DPI Grafito Silencioso",
+    "precio": 99.99,
+    "image": "./img/raton-logitech-mx-master-3s-inalambrico-rf-bluetooth-8000-dpi-grafito-silencioso-ergonomico.webp"
+  },
+  {
+    "id": 35,
+    "categoria": "Ratones",
+    "nombre": "Logitech G305 LightSpeed Ratón Inalámbrico Gaming 12000DPI Negro",
+    "precio": 69.99,
+    "image": "./img/logitech-g305-lightspeed-raton-inalambrico-gaming-12000dpi-negro.webp"
+  },
+  {
+    "id": 36,
+    "categoria": "Ratones",
+    "nombre": "Ratón Logitech G403 HERO Cable USB 25600DPI Negro RGB Pesos Ajustables",
+    "precio": 85.99,
+    "image": "./img/raton-logitech-g403-hero-cable-usb-25600dpi-negro-rgb-pesos-ajustables.webp"
+  },
+  {
+    "id": 37,
+    "categoria": "Teclados",
+    "nombre": "Logitech MX Keys S Teclado Inalámbrico Perfil Bajo Escritura Silenciosa Grafito",
+    "precio": 99.99,
+    "image": "./img/logitech-mx-keys-s-teclado-inalambrico-bluetooth-de-perfil-bajo-grafito.webp"
+  },
+  {
+    "id": 38,
+    "categoria": "Teclados",
+    "nombre": "Logitech G515 TKL Teclado Mecánico Gaming RGB Switch GL Tactile PBT Negro",
+    "precio": 109.99,
+    "image": "./img/logitech-g515-tkl-teclado-mecanico-gaming-rgb-switch-gl-tactile-pbt-negro.webp"
+  },
+  {
+    "id": 39,
+    "categoria": "Teclados",
+    "nombre": "Magic Keyboard con Touch ID (USB‑C) - Español - Teclas blancas",
+    "precio": 199.99,
+    "image": "./img/MXK73Y.jpg"
+  },
+  {
+    "id": 40,
+    "categoria": "Teclados",
+    "nombre": "Ratón Logitech MX Master 3S Inalámbrico Bluetooth 8000 DPI Grafito Silencioso Ergonómico",
+    "precio": 99.99,
     "image": "./img/"
   }
 ]

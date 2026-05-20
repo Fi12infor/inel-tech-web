@@ -16,7 +16,7 @@ html {
 main {
   display: flex;
   flex-direction: column;
-  width: 130rem;
+  width: 110rem;
   margin: 10rem auto;
 }
 
@@ -44,4 +44,14 @@ main {
 .section-description {
   width: 70rem;
   font-size: 1.2rem;
+}
+
+/* Responsive */
+@media (max-width: 900px) {
+  main {
+  display: flex;
+  flex-direction: column;
+  width: 80rem;
+  margin: 10rem auto;
+}
 }
